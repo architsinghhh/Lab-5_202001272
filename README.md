@@ -6,7 +6,7 @@
 
 # Lab 5 Static Analysis
 
-# Tool used Mypy
+Tool used Mypy
 
 Installation of Mypy
 
@@ -21,7 +21,7 @@ Error:-
 
 ![image](https://user-images.githubusercontent.com/118463827/227475580-ef0f3fec-27f2-438e-976b-22cd3979b59a.png)
 
-# List of Errors:-
+List of Errors:-
 
 1. from pytube import YouTube, exceptions
 2. set_appearance_mode("System")
@@ -54,29 +54,8 @@ The errors were caused as libraries were not installed which eventually led to e
 
 <br>
 
-# Repositiory 3
 
-https://github.com/somin18501/DBMS_PROJECT
-
-![image](https://user-images.githubusercontent.com/118463827/227474197-6898dca3-4d84-45a5-b873-2425cae0d704.png)
-
-Errors:-
-1.
-Unable to find Django package
-
-Downloading the package
-
-![image](https://user-images.githubusercontent.com/118463827/227474567-e0e687a5-a10c-4857-a7de-5d0005b23a7f.png)
-
-2. Render is not defined
-
-![image](https://user-images.githubusercontent.com/118463827/227474915-dfde0ebc-d836-45c3-826a-de926bc6cba8.png)
- 
-Render is Imported
-
-![image](https://user-images.githubusercontent.com/118463827/227475001-f1e51d95-ed21-4304-a305-2391588924cc.png)
-
-# Repository 4
+# Repository 3
 
 https://hackr.io/blog/python-projects
 
@@ -99,7 +78,7 @@ Conclusion:-
 Argument type incompatibility.
 The errors were caused as libraries were not installed which eventually led to errors.
 
-# Repository 5
+# Repository 4
 
 https://github.com/donnemartin/system-design-primer.git
 
@@ -110,6 +89,11 @@ Errors:-
 List of errors:- 
 
 1. import mrjob.job
+
+Conclusion:- 
+
+The errors were caused as libraries were not installed which eventually led to errors.
+
 
 
 
