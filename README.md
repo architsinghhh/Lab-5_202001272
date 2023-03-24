@@ -14,6 +14,8 @@ Installation of Mypy
 
 Repositiory 1
 
+https://github.com/somin18501/DBMS_PROJECT
+
 ![image](https://user-images.githubusercontent.com/118463827/227474197-6898dca3-4d84-45a5-b873-2425cae0d704.png)
 
 Errors:-
@@ -53,7 +55,32 @@ List of Errors:-
 8. from customtkinter import *
 
 Conclusion:- 
-The errors were caused as libraries were not installed which eventually led to errors
+
+The errors were caused as libraries were not installed which eventually led to errors.
+
+Repository 3
+ 
+https://github.com/binjolaaman10/python-file-manager
+
+Error:-
+
+![image](https://user-images.githubusercontent.com/118463827/227476940-32a66629-4182-4807-b451-355309b4808b.png)
+
+List of Errors:-
+
+1. import send2trash
+
+Conclusion:- 
+
+The errors were caused as libraries were not installed which eventually led to errors.
+
+<br>
+
+Repository 4
+
+https://hackr.io/blog/python-projects
+
+
 
 
 
